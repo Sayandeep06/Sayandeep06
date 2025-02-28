@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gitpushsayan" target="blank"><img src="https://img.shields.io/twitter/follow/gitpushsayan?logo=twitter&style=for-the-badge" alt="gitpushsayan" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Typescript, different**
+- 🌱 I’m currently learning **Next.js, Typescript and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sayandeep06.vercel.app/](https://portfolio-sayandeep06.vercel.app/)
 
