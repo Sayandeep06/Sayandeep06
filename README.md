@@ -25,6 +25,14 @@
 
 <h3 align="left">My Projects</h3>
 
+- **[HuddleX](https://huddlex.vercel.app/)**  
+  A video conferencing platform powered by Stream SDK with real-time communication and responsive design for seamless collaboration.  
+  *Tech Stack: Next.js, Tailwind CSS, Clerk, StreamSDK*
+
+- **[Soundroom](https://soundroom-1.vercel.app/)**  
+  A real-time collaborative music app where users create party rooms, add songs, and vote on what plays next—emphasizing group control over personal playlists.  
+  *Tech Stack: Next.js, Tailwind CSS, NextAuth, Vercel*
+  
 - **[Web Store](https://shoewebstore.netlify.app/)**  
   A sleek, responsive e-commerce platform built with React and Tailwind CSS, offering seamless navigation and a modern UI design.  
   *Tech Stack: JavaScript, React, Tailwind*
@@ -32,10 +40,6 @@
 - **[Smart Mirror](#projects)**  
   A voice-controlled device leveraging the Google Assistant API and YouTube API. Led the project to win the Technothon IoT Exposition.  
   *Tech Stack: Node.js, Raspberry Pi, Google Assistant API, YouTube API*
-
-- **[TO-DO App](https://todo-notes-v1.netlify.app/)**  
-  A web app for quick text analytics, showing word count, character count, and social media post limits.  
-  *Tech Stack: React, Express.js, MongoDB, CSS, JWT*
 
 - **[Astralis](https://cosmosastralis.netlify.app/)**  
   A React app showcasing NASA’s Astronomy Picture of the Day (APOD) with daily updates and detailed insights.  
