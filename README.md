@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sayandeep06.vercel.app/](https://portfolio-sayandeep06.vercel.app/)
 
-- 💬 Ask me about **React, Express, Java, DSA, AWS**
+- 💬 Ask me about **React, Express, Java, DSA, NextJS**
 
 - 📫 How to reach me **deysayandeepdev@gmail.com**
 
