@@ -24,6 +24,7 @@
 </p>
 
 <h3 align="left">My Projects</h3>
+
 - **[Intervue](https://intervue.sayandeep.xyz/)**  
   An AI-based interview platform like Mercor 
   *Tech Stack: Next.js, Tailwind CSS, NextAuth, Vapi, Deepgram, OpenAI, Gemini*
