@@ -24,13 +24,20 @@
 </p>
 
 <h3 align="left">My Projects</h3>
+- **[Intervue](https://intervue.sayandeep.xyz/)**  
+  An AI-based interview platform like Mercor 
+  *Tech Stack: Next.js, Tailwind CSS, NextAuth, Vapi, Deepgram, OpenAI, Gemini*
+  
+- **[Athletiq](https://athletiq.sayandeep.xyz/)**  
+  Your AI fitness trainer that gives you curated workout and diet plans
+  *Tech Stack: Next.js, Tailwind CSS, Vapi, Convex*
 
 - **[HuddleX](https://huddlex.vercel.app/)**  
   A video conferencing platform powered by Stream SDK with real-time communication and responsive design for seamless collaboration.  
   *Tech Stack: Next.js, Tailwind CSS, Clerk, StreamSDK*
 
 - **[Soundroom](https://soundroom-1.vercel.app/)**  
-  A real-time collaborative music app where users create party rooms, add songs, and vote on what plays next—emphasizing group control over personal playlists.  
+  A real-time collaborative music app where users create party rooms, add songs, and vote on what plays next, emphasizing group control over personal playlists.  
   *Tech Stack: Next.js, Tailwind CSS, NextAuth, Vercel*
   
 - **[Web Store](https://shoewebstore.netlify.app/)**  
